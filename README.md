@@ -21,7 +21,7 @@
 
 [twitter]: https://www.x.com/_GregJohnson1
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
+[instagram]: https://www.instagram.com/_gregjohnson/
 [linkedin]: https://www.linkedin.com/in/gregorytroyjohnson
 
 <!--
