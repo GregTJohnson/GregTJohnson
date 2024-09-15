@@ -3,8 +3,13 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Azure / Cloud Projects</b>
-  - [Creating a Live SOC / HoneyNet in Azure](https://github.com/GregTJohnson/Cloud-SOC)
-<h2>📺 Popular YouTube Videos</h2>
+  - [Creating a Live SOC / HoneyNet in Azure](https://github.com/GregTJohnson/Cloud-SOC)<h2>
+<h2>Certifications:</h2>
+CompTia Security + (Syo 701)
+
+Google Cybersecurity by Google on Coursera
+
+📺 Popular YouTube Videos</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
